@@ -11,9 +11,6 @@ public class Test2 {
 			//for loop
 			System.out.println("value is :  " + i);
 			
-			//for loop
-			System.out.println("value is :  " + i);
-			
 			
 		}
 	}
